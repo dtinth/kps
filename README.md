@@ -2,6 +2,8 @@
 
 A tool to warn me when I type too fast.
 
+![Demo GIF](./demo.gif)
+
 ## Architecture
 
 <a href="https://app.diagrams.net/#Hdtinth%2Fkps%2Fmaster%2Farchitecture.svg">
